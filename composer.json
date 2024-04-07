@@ -2,6 +2,7 @@
   "name": "xavi7th/phpcs-coding-standard",
   "description": "This is the coding standard I implement in my PHP development",
   "type": "phpcodesniffer-standard",
+  "license": "MIT",
   "require": {
     "dealerdirect/phpcodesniffer-composer-installer": "^1.0"
   },
