@@ -1,0 +1,21 @@
+{
+  "name": "xavi7th/phpcs-coding-standard",
+  "description": "This is the coding standard I implement in my PHP development",
+  "type": "phpcodesniffer-standard",
+  "require-dev": {
+    "dealerdirect/phpcodesniffer-composer-installer": "^1.0"
+  },
+  "license": "GPL-2.0",
+  "authors": [
+    {
+      "name": "xavi7th",
+      "email": "xavi7th@gmail.com"
+    }
+  ],
+  "require": {},
+  "config": {
+    "allow-plugins": {
+      "dealerdirect/phpcodesniffer-composer-installer": true
+    }
+  }
+}
