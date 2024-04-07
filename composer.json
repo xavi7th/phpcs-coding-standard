@@ -17,5 +17,8 @@
       "dealerdirect/phpcodesniffer-composer-installer": true
     },
     "sort-packages": true
+  },
+  "scripts": {
+    "post-package-install": "vendor/bin/phpcs --config-set default_standard Xavi7th"
   }
 }
