@@ -1,0 +1,1 @@
+# phpcs-coding-standard
